@@ -1,0 +1,315 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.header
+{
+	background-color:yellow;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .creative
+{
+	width:160px;
+	height:55px;
+	background-color:white;
+}
+.header .header-fc .button
+{
+	width:50px;
+	height:55px;
+	background-color:white;
+}
+.story .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.story
+{
+	height:800px;
+	background-color:yellow;
+	
+}
+.story .story-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.story .story-fc .text 
+{
+	height:156px;
+	width:100%;
+	background-color:white;
+	margin-top:300px;
+}
+
+.design 
+{
+	height:1440px;
+	background-color:white;
+	width:100%;
+}
+.design .design-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.design .design-fc .boxa
+{
+	height:480px;
+	width:674px;
+	background-color:red;
+}
+.design .design-fc .boxb
+{
+	height:480px;
+	width:674px;
+	background-color:white;
+}
+.design .design-fc .boxc
+{
+	height:480px;
+	width:674px;
+	background-color:red;
+}
+.design .design-fc .boxd
+{
+	height:480px;
+	width:674px;
+	background-color:white;
+}
+.design .design-fc .boxe
+{
+	height:480px;
+	width:674px;
+	background-color:red;
+}
+.design .design-fc .boxf
+{
+	height:480px;
+	width:674px;
+	background-color:white;
+}
+.dessert .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.dessert 
+{
+	background-color:lightgrey;
+}
+.dessert .dessert-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.dessert .dessert-fc .boxa
+{
+	width:340px;
+	height:350px;
+	background-color:white;
+}
+.dessert .dessert-fc .boxb
+{
+	width:340px;
+	height:350px;
+	background-color:lightblue;
+}
+.dessert .dessert-fc .boxc
+{
+	width:340px;
+	height:350px;
+	background-color:white;
+}
+.dessert .dessert-fc .boxd
+{
+	width:340px;
+	height:350px;
+	background-color:lightblue;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio 
+{
+	height:1610px;
+	background-color:pink;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .text
+{
+	width:100%;
+	height:200px;
+	background-color:white;
+	margin-top:70px;
+}
+.portfolio .portfolio-fc .boxa
+{
+	height:360px;
+	width:350px;
+	background-color:white;
+	margin-top:50px;
+}
+.portfolio .portfolio-fc .boxb
+{
+	height:360px;
+	width:350px;
+	background-color:white;
+	margin-top:50px;
+}
+.portfolio .portfolio-fc .boxc
+{
+	height:360px;
+	width:350px;
+	background-color:white;
+	margin-top:50px;
+}
+.portfolio .portfolio-fc .boxd
+{
+	height:360px;
+	width:350px;
+	background-color:white;
+	margin-top:50px;
+}
+.portfolio .portfolio-fc .boxe
+{
+	height:360px;
+	width:350px;
+	background-color:white;
+	margin-top:50px;
+}
+.portfolio .portfolio-fc .boxf
+{
+	height:360px;
+	width:350px;
+	background-color:white;
+	margin-top:50px;
+}
+.portfolio .portfolio-fc .development
+{
+	height:300px;
+	width:263px;
+	background-color:white;
+	margin-top:70px;
+}
+.portfolio .portfolio-fc .design
+{
+	height:300px;
+	width:263px;
+	background-color:white;
+	margin-top:70px;
+}
+.portfolio .portfolio-fc .editing
+{
+	height:300px;
+	width:263px;
+	background-color:white;
+	margin-top:70px;
+}
+.portfolio .portfolio-fc .strategy
+{
+	height:300px;
+	width:263px;
+	background-color:white;
+	margin-top:70px;
+}
+.contact .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contact
+{
+	height:550px;
+	background-color:lightblue;
+}
+.contact .contact-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.contact .contact-fc .text
+{
+	height:77px;
+	width:600px;
+	background-color:white;
+	margin-top:50px;
+}
+.contact .contact-fc .boxa
+{
+	height:55px;
+	width:600px;
+	background-color:white;
+	margin-top:20px;
+}
+.contact .contact-fc .boxb
+{
+	height:55px;
+	width:600px;
+	background-color:white;
+	margin-top:20px;
+}
+.contact .contact-fc .boxc
+{
+	height:130px;
+	width:600px;
+	background-color:white;
+	margin-top:20px;
+}
+.contact .contact-fc .button
+{
+	height:50px;
+	width:600px;
+	background-color:white;
+	margin-top:20px;
+}
+.footer .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.footer
+{
+	height:235px;
+	background-color:black;
+	
+}
+.footer .footer-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.footer .footer-fc .texta
+{
+	height:55px;
+	width:100%;
+	background-color:white;
+	margin-top:50px;
+}
+.footer .footer-fc .textb
+{
+	height:55px;
+	width:500px;
+	background-color:white;
+	margin-top:20px;
+}
+
+
